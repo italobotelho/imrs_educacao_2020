@@ -22,6 +22,13 @@ Este projeto tem como objetivo analisar estatisticamente três variáveis da dim
 - Matplotlib
 - Seaborn
 
+## 📁 Estrutura
+
+- 📦imrs_educacao_2020
+ ┣ 📊 educacao_imrs_2020.ipynb
+ ┣ 📄 README.md
+ ┗ 📄 relatorio_educacao_imrs_2020.pdf
+
 ## 📌 Resultados
 
 - As regiões Sul/Sudoeste e Metropolitana apresentaram os melhores índices educacionais.
