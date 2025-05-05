@@ -17,17 +17,16 @@ Este projeto tem como objetivo analisar estatisticamente três variáveis da dim
 ## 🛠️ Tecnologias e Ferramentas
 
 - Python 3.10
-- Google Colab
+- Jupyter Notebook
 - Pandas
 - Matplotlib
 - Seaborn
 
 ## 📁 Estrutura
-
 - 📦imrs_educacao_2020
- ┣ 📊 educacao_imrs_2020.ipynb
- ┣ 📄 README.md
- ┗ 📄 relatorio_educacao_imrs_2020.pdf
+- ┣ 📊 notebook.ipynb ([Jupyter Notebook](notebook.ipynb))
+- ┣ 📄 relatorio.pdf ([Relatório com informações adicionais](relatorio.pdf))
+- ┗ 📄 README.md ([Arquivo README](README.md))
 
 ## 📌 Resultados
 
