@@ -22,10 +22,6 @@ Este projeto tem como objetivo analisar estatisticamente três variáveis da dim
 - Matplotlib
 - Seaborn
 
-## 📁 Estrutura
-
-
-
 ## 📌 Resultados
 
 - As regiões Sul/Sudoeste e Metropolitana apresentaram os melhores índices educacionais.
@@ -34,11 +30,11 @@ Este projeto tem como objetivo analisar estatisticamente três variáveis da dim
 
 ## 👨‍💻 Autores
 
-- Enzo
-- Flávio
-- Guilherme
-- Ítalo
-
+- Enzo de Oliveira Guerra da Silva
+- Flávio Tomás Peña Villa
+- Guilherme Luis Cintra dos Santos
+- Ítalo Fraga Botelho
+  
 ## 📚 Referência
 
 Fundação João Pinheiro — [IMRS](https://imrs.fjp.mg.gov.br/Home/IMRS)
