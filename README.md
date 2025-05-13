@@ -16,11 +16,11 @@ Este projeto tem como objetivo analisar estatisticamente três variáveis da dim
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- Python 3.10
-- Jupyter Notebook
-- Pandas
-- Matplotlib
-- Seaborn
+- `Python 3.10`
+- `Jupyter Notebook`
+- `Pandas`
+- `Matplotlib`
+- `Seaborn`
 
 ## 📁 Estrutura
 - 📦imrs_educacao_2020
